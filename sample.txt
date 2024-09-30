@@ -2,3 +2,7 @@ this is sample file
 this is github file
 this is chitti file
 this is my file
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9ea6c4a2fb166137c536c692eb0889bf9d9b3d96
