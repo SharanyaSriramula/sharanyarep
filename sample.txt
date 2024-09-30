@@ -1,7 +1,5 @@
 this is sample file
 this is github file
-<<<<<<< HEAD
 this is chitti file
-=======
 this is my file
->>>>>>> fca1ff37b5eaf17cc5cecc18bd3136d0e6bbd3f2
+
